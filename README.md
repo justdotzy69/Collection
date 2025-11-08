@@ -1,3 +1,6 @@
+Nama : Khoirul Rosyid Gunawan
+NIM : H1H024036
+
 # Collection
 Collection interface
 List interface 
